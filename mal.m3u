@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Asianet News" status="timeout",Asianet News
+https://list.iptvcat.com/my_list/s/ed15ec4cbf3c523298493952f2dee3e9.m3u8
+#EXTINF:-1 tvg-id="Janam Tv" status="timeout",Janam Tv
+https://iptvcat.com/my_list/s/44a0f76923099a8e78305fa54f01950a.m3u8
